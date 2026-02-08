@@ -1,5 +1,3 @@
----
-
 # CourseEnroller - Backend API
 
 A robust Spring Boot Learning Management System (LMS) backend designed to manage student enrollments, content discovery, and granular progress tracking.
